@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Codurance_Pair_Session.Library</RootNamespace>
+  </PropertyGroup>
+
+</Project>
